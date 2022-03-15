@@ -9,13 +9,13 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    var name = "Andrew"
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        load()
+        
     }
-    func load(){}
+   
 
   
 }
